@@ -16,7 +16,7 @@
   # Linux/macOS:
   sudo python3 main.py
 
-🚀 Установка и запуск:
+🚀 Установка и запуск
 # Клонирование репозитория
 git clone https://github.com/ваш-ник/work-time-blocker.git
 cd work-time-blocker
